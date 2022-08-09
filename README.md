@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @DORAbabu01
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Dorababu Chintala
+- 👀 I’m passionated about Data Engineering, Big data developer and Stratergy designations 
+- 🌱 I’m currently pursuing Masters in Management informative systems
+- 💞️ I’m looking to collaborate on Intern and Full time projects
+- 📫 How to reach me dchint3@uic.edu / dorachintala23@gmail.com
 
 
 Personally, I believe No matter where I came from, one brilliant idea and a desire to learn new things crowned me as emperor and infused my endeavors with vivacious vitality. I am a professional at deciphering data from a statistical and corporate viewpoint, and my technical skills blend with my domain knowledge of e-commerce and education to develop solutions that are action-oriented and address with significant business concerns. Leveraging current ETL/ELT strategies for data modeling and data warehouse architecture, terabytes of enterprise data are then used to develop algorithms using predictive analytics.
